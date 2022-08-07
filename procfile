@@ -1,0 +1,1 @@
+web: gunicorn CCSM.wsgi --log-file -
